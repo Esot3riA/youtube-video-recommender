@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/volume/youtube-8m/saved_model/inference_model/segment_inference_model"
+all_model_checkpoint_paths: "/root/volume/youtube-8m/saved_model/inference_model/segment_inference_model"

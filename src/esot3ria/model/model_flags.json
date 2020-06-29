@@ -1,0 +1,1 @@
+{"model": "FrameLevelLogisticModel", "feature_sizes": "1024,128", "feature_names": "rgb,audio", "frame_features": true, "label_loss": "CrossEntropyLoss"}
